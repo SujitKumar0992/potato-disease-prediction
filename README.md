@@ -8,10 +8,10 @@ The goal of this problem statement is to help potato farmers and growers take pr
 
 ## Solutions :
 Our dataset consist of 3 types of potato disease
-1.Late blight: This is a fungal disease that affects the leaves, stems, and tubers of potato plants. It is caused by the pathogen Phytophthora infestans and can cause significant damage to potato crops.
+1. Late blight: This is a fungal disease that affects the leaves, stems, and tubers of potato plants. It is caused by the pathogen Phytophthora infestans and can cause significant damage to potato crops.
 
-2.Early blight: This is a fungal disease that affects the leaves of potato plants, causing brown spots and discoloration. It is caused by the pathogen Alternaria solani.
-3.Healthy
+2. Early blight: This is a fungal disease that affects the leaves of potato plants, causing brown spots and discoloration. It is caused by the pathogen Alternaria solani.
+3. Healthy
 
 we build a CNN architecture that can predict the disease of potato
 
